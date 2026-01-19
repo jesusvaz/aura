@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import "./globals.css";
 import Link from "next/link";
 import { treatments } from "@/data/treatments"
