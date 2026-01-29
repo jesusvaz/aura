@@ -20,7 +20,7 @@ export default function HomePage() {
       <h3 className="flex items-center gap-2 text-lg">
         Agenda una cita, que esperas llamanos
         <LuPhone className="text-xl" />
-        <span className="font-semibold">+(650) 954-1379</span>
+        <span className="font-semibold">(650) 954-1379</span>
       </h3>
     </div>
   );
